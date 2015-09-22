@@ -1,3 +1,8 @@
+# ScreenLogger
+
+The idea is to track iOS Lock Screen going on and off. This functionality should work even if application goes to background. The trick below is used to keep it always alive. Just like Moment app works.
+
+
 Getting Location Updates for iOS 7 and 8 Even when the App is Killed/Terminated/Suspended
 ============================
 
@@ -33,4 +38,3 @@ I have used a lot of my personal time in experimenting/learning the Core Locatio
 
 Thanks.
 Ricky
-# ScreenLogger
